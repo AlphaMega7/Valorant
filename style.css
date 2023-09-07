@@ -1,0 +1,34 @@
+
+body{
+  background-image: url("valorant.jpg");
+  background-position:center;
+  background-size: 100%;
+  align-items: center;
+  font-family:"Open Sans", "PT Sans" ,Calibri, Tahoma , sans-serif ;
+}
+
+#name {
+  background-color: #0000004b;
+  font-size: 15px;
+  padding-left: 50px;
+}
+
+#intro {
+  background-color: #7e04044b;
+  margin-top:5%;
+  margin-bottom:2%;
+  font-size: 30px;
+  padding-left: 50px;
+}
+
+h1{
+  color:rgb(0, 0, 0);
+  margin: auto;
+  width: 30%;
+}
+
+h2{
+  color: rgb(0, 0, 0);
+  margin: auto;
+  width: 30%;
+}
